@@ -1,0 +1,3 @@
+Maestra los archivos salen con formato .JPG por que la computadora donde se los envié no 
+tiene Visual Studio pero claro cuando los abre con Visual Studio se abren correctamente. 
+Tenga buen dia.
